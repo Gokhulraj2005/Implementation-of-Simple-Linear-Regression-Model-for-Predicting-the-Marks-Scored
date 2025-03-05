@@ -12,11 +12,12 @@ To write a program to predict the marks scored by a student using the simple lin
 5.Find the values of MSE , MAE and RMSE.     
 
 ## PROGRAM:
-```
+
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: GOKHULRAJ V
 RegisterNumber:  212223230064
-```
+
 ```py
 import pandas as pd
 import numpy as np
